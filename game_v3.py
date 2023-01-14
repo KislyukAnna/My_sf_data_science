@@ -32,7 +32,7 @@ def random_predict(number:int=1) -> int:
         
     return(count)
 
-print(f'Количество попыток: {random_predict()}')
+#print(f'Количество попыток: {random_predict()}')
 
 
 def score_game(random_predict) -> int:
