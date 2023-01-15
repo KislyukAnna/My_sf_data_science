@@ -29,6 +29,12 @@
 
 ### Краткая информация о данных
 
+### Этапы работы над проектом
+
+### Результат
+
+### Выводы
+
 
 
 :arrow_up:[к оглавлению](https://github.com/KislyukAnna/My_sf_data_science/blob/main/README.md#Оглавление)
